@@ -21,3 +21,26 @@ contributions while preparing my application for Summer of Bitcoin.
   - push / pull
   - merge conflict resolution
   - PR workflow
+
+## Day 2
+
+### Bitcoin Core & Protocol Basics
+
+- Learned how **Bitcoin Core** works at a high level  
+  - Full node responsibilities  
+  - RPC-based interaction using `bitcoin-cli`
+
+- Set up **Signet** for safe Bitcoin experimentation  
+  - Created wallets on Signet  
+  - Generated addresses  
+  - Sent and received test transactions  
+
+- Learned how to **verify Bitcoin Core binaries**  
+  - Verified SHA256 checksums  
+  - Verified developer PGP signatures  
+  - Understood the trust model using public keys  
+
+- Studied **SegWit transactions**  
+  - Why SegWit was introduced  
+  - How the transaction structure changes  
+  - Impact on transaction IDs and transaction malleability  
