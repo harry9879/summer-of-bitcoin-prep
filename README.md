@@ -44,3 +44,12 @@ contributions while preparing my application for Summer of Bitcoin.
   - Why SegWit was introduced  
   - How the transaction structure changes  
   - Impact on transaction IDs and transaction malleability  
+
+
+Day 3–20
+
+Reading BDK Core and BDK Chain
+
+Watched MIT – Blockchain and Money
+
+Completed Bitcoin: A Technical Crash Course
